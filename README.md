@@ -2,7 +2,7 @@ Welcome to my portfolio website! This repository contains the code for my person
 
 ## Live Demo
 
-You can view the live version of my portfolio website 
+You can view the live version of my portfolio website [ https://jagadeesan001.github.io/portfolio-sample-website/ ]
 ## Features
 
 - Simple and elegant design using HTML and CSS only.
