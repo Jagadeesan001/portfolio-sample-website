@@ -1,0 +1,64 @@
+* {
+    margin: 10px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.name__card {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.name__card a {
+    color: white;
+    text-decoration: none;
+    background-color: orange;
+    padding: 4px;
+}
+
+.card__interests {
+    background-color: rgb(81, 81, 211);
+    padding: 15px;
+    border-radius: 24px;
+    font-weight: bolder;
+    display: inline-block;
+    /* height: 270px; */
+    vertical-align: top;
+
+}
+
+.card__interests ul {
+    list-style-type: none;
+}
+
+.card__project {
+    background-color: orange;
+    padding: 15px;
+    border-radius: 24px;
+    font-weight: bolder;
+    display: inline-block;
+    /* height: 270px; */
+    vertical-align: top;
+}
+
+.card__end_links {
+    background-color: black;
+    color: white;
+    padding: 15px;
+
+}
+
+.card__input__btn {
+    color: black;
+    font-weight: bold;
+    background-color: rgb(221, 88, 26);
+    padding: 6px;
+
+}
+.Contact__input{
+    border: none;
+    border-bottom: solid black 1px;
+}
